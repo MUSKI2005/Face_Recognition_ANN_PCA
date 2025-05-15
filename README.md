@@ -3,7 +3,7 @@
 <!-- os,numpy,matplotlib etc -->
 <!-- using the helper function -->
 **Using the function plot_gallery**
-
+*plots a gallery of portraits*
 
 
 
