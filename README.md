@@ -2,3 +2,11 @@
 ## Importing all liberaries
 <!-- os,numpy,matplotlib etc -->
 <!-- using the helper function -->
+**Using the function plot_gallery**
+
+
+
+
+
+
+
