@@ -5,9 +5,8 @@
 **Using the function plot_gallery**
 *plots a gallery of portraits*
 
-
-
-
+plt.figure
+Adjusting the subplots
 
 
 
