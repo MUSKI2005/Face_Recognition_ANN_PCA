@@ -13,7 +13,7 @@
 *plotting y ticks*
 
 <!-- giving directory name -->
-
+<!-- h=w=300 #image dimensions -->
 
 
 
