@@ -9,4 +9,5 @@
 <!-- Adjusting the subplots -->
 <!-- showing images -->
 <!-- giving titles in ANN model -->
+*x tickets*
 
