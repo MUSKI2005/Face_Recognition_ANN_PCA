@@ -17,5 +17,5 @@
 
 *y=[] #labels*
 *x are the features*
-
+**target names are the class names**
 
