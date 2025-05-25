@@ -11,3 +11,10 @@
 <!-- giving titles in ANN model -->
 *x ticks*
 *plotting y ticks*
+
+<!-- giving directory name -->
+
+
+
+
+
