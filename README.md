@@ -25,8 +25,8 @@
 **inside the outer loop running inner loop for joining the directory path**
 <!-- giving image path in directory -->
 *reading the images*
-<!-- converting the images into gray scale -->
-
+<!-- converting the images into gray scale for reducing dimensions-->
+<!-- resizing the iamges -->
 
 
 
