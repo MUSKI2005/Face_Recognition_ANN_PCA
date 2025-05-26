@@ -23,7 +23,7 @@
 *running a loop for finding person id in directory*
 <!--dir_path = os.path.join(dir_name, person_name)  -->
 **inside the outer loop running inner loop for joining the directory path**
-
+<!-- giving image path in directory -->
 
 
 
