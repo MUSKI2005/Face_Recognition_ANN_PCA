@@ -24,7 +24,7 @@
 <!--dir_path = os.path.join(dir_name, person_name)  -->
 **inside the outer loop running inner loop for joining the directory path**
 <!-- giving image path in directory -->
-
+*reading the images*
 
 
 
