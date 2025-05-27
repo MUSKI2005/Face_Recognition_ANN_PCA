@@ -34,7 +34,7 @@
 <!-- incrementing person id by 1 -->
 
 *X=np.array(X)*
-
+*y=np.array(y)*
 
 
 
