@@ -30,5 +30,6 @@
 <!-- appending in X after flattening the images -->
 <!-- append y for person id -->
 
+<!-- target names appending -->
 
 
