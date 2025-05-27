@@ -33,3 +33,24 @@
 <!-- target names appending -->
 <!-- incrementing person id by 1 -->
 
+*X=np.array(X)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
