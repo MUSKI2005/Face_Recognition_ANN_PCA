@@ -28,7 +28,7 @@
 <!-- converting the images into gray scale for reducing dimensions-->
 <!-- resizing the iamges -->
 <!-- appending in X after flattening the images -->
-
+<!-- append y for person id -->
 
 
 
