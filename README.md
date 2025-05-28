@@ -51,7 +51,7 @@
 <!-- y_test_onehot=to_categorical(y_test) -->
 
 <!-- from tensorflow.keras.models import Sequential #type: ignore -->
-
+<!-- from tensorflow.keras.layers import Dense, Flatten, Dropout #type: ignore -->
 
 
 
