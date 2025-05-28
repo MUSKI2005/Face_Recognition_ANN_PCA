@@ -42,7 +42,7 @@
 <!--  splitting the data into training and testing sets -->
 <!-- x train, y train etc. splitting the dataset -->
 
-
+<!-- normalize the data for ANN -->
 
 
 
