@@ -47,7 +47,7 @@
 <!-- X_test=X_test/255.0 -->
 
 <!-- one-hot encode the labels -->
-
+<!-- y_train_onehot=to_categorical(y_train) -->
 
 
 
