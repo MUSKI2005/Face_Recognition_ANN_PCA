@@ -57,7 +57,7 @@
 *from tensorflow.keras.optimizer import Adam*
 **data set prepration**
 
-<!-- h=w=300  -->
+<!-- h=w=300  image dimensions-->
 
 
 
