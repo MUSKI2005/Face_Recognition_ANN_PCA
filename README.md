@@ -54,4 +54,9 @@
 <!-- from tensorflow.keras.layers import Dense, Flatten, Dropout #type: ignore -->
 <!-- from tensorflow keras importing categorical -->
 
+*from tensorflow.keras.optimizer import Adam*
+
+
+
+
 
