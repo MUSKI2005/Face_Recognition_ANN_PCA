@@ -55,7 +55,7 @@
 <!-- from tensorflow keras importing categorical -->
 
 *from tensorflow.keras.optimizer import Adam*
-
+**data set prepration**
 
 
 
