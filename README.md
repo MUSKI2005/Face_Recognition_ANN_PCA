@@ -65,7 +65,7 @@
 *running for loop for finding person name in directory*
 <!-- directory path and person name -->
 *running an inner loop for image name in directory*
-
+<!-- image path and joiining the image name -->
 
 
 
