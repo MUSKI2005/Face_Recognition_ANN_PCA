@@ -68,7 +68,7 @@
 <!-- image path and joiining the image name -->
 <!-- reading the image -->
 
-
+<!-- converting the images into gray color -->
 
 
 
