@@ -63,3 +63,25 @@
 <!-- target_names=[] class names -->
 
 *running for loop for finding person name in directory*
+<!-- directory path and person name -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
