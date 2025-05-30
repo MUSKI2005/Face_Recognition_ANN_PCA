@@ -69,7 +69,7 @@
 <!-- reading the image -->
 
 <!-- converting the images into gray color -->
-
+<!-- having the resized images for better dimensions -->
 
 
 
