@@ -82,7 +82,7 @@
 <!-- target_names=np.array(target_names) -->
 <!-- printing the dataset labels , classes , targets -->
 
-
+** splitting the data into training and testing sets**
 
 
 
