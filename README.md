@@ -72,7 +72,7 @@
 <!-- having the resized images for better dimensions -->
 
 <!--  X.append(resized_image.flatten()) -->
-
+<!-- y.append(person_id) -->
 
 
 
