@@ -71,6 +71,7 @@
 <!-- converting the images into gray color -->
 <!-- having the resized images for better dimensions -->
 
+<!--  X.append(resized_image.flatten()) -->
 
 
 
