@@ -77,7 +77,7 @@
 <!--  target_names.append(person_name) -->
 <!-- person_id += 1 -->
 
-
+*X=np.array(X)*
 
 
 
