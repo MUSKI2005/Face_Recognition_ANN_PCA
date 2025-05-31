@@ -74,7 +74,7 @@
 <!--  X.append(resized_image.flatten()) -->
 <!-- y.append(person_id) -->
 
-
+<!--  target_names.append(person_name) -->
 
 
 
