@@ -85,4 +85,4 @@
 ** splitting the data into training and testing sets**
 <!-- test size , random state -->
 
-
+*normalize the data for ANN*
