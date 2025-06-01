@@ -86,3 +86,4 @@
 <!-- test size , random state -->
 
 *normalize the data for ANN*
+<!-- X_train=X_train/255.0 -->
