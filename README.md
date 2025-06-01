@@ -91,7 +91,7 @@
 
 *one-hot encode the labels*
 <!-- y_train_onehot=to_categorical(y_train) -->
-
+<!-- y_test_onehot=to_categorical(y_test) -->
 
 
 
