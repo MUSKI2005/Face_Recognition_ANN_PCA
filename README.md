@@ -101,7 +101,7 @@
 <!-- Adding flattern, dense, dropout layers in the model -->
 <!-- For compiling the model using Adam optimizer, loss, metrics -->
 
-
+<!-- print(model.summary()) -->
 
 
 
