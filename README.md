@@ -98,7 +98,7 @@
 <!-- importing categorical and Adam optimizer -->
 
 **ANN model building**
-
+<!-- Adding flattern, dense, dropout layers in the model -->
 
 
 
