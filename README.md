@@ -95,7 +95,7 @@
 
 <!-- from tensorflow keras importing sequential -->
 <!-- so as dense, flattern, dropout etc. -->
-
+<!-- importing categorical and Adam optimizer -->
 
 
 
