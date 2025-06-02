@@ -97,7 +97,7 @@
 <!-- so as dense, flattern, dropout etc. -->
 <!-- importing categorical and Adam optimizer -->
 
-
+**ANN model building**
 
 
 
