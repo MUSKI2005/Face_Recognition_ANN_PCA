@@ -104,7 +104,7 @@
 <!-- print(model.summary()) -->
 
 <!-- train the ANN -->
-
+<!-- fitting X train,Y train,epochs,batch size,validation spilt -->
 
 
 
