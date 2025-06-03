@@ -114,7 +114,7 @@
 
 *y_pred=np.argmaxI()*
 <!--  create the titles for predition vs the ground truth -->
-
+<!-- prediction_titles=[] -->
 
 
 
