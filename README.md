@@ -107,7 +107,7 @@
 <!-- fitting X train,Y train,epochs,batch size,validation spilt -->
 
 <!-- Evaluate the ANN model -->
-
+<!-- accuracy=model.evaluate() -->
 
 
 
