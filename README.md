@@ -112,7 +112,7 @@
 
 <!-- predict the test data -->
 
-
+*y_pred=np.argmaxI()*
 
 
 
