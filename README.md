@@ -108,9 +108,9 @@
 
 <!-- Evaluate the ANN model -->
 <!-- accuracy=model.evaluate() -->
+<!-- print(f" ANN model accuarcy: {accuracy*100:.2f}%") -->
 
-
-
+<!-- predict the test data -->
 
 
 
