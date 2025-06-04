@@ -128,7 +128,7 @@
 
 <!-- Now printing the final test accuracy with true positive -->
 
-
+<!-- displaying the test images with the predictions -->
 
 
 
