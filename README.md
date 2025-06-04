@@ -118,6 +118,6 @@
 <!-- true_positive=0 -->
 <!-- for i in range(len(y_pred)): -->
 <!--  true_name=target_names[y_test[i]] -->
-
+<!--  pred_name=target_names[y_pred[i]] -->
 
 
