@@ -121,4 +121,4 @@
 <!--  pred_name=target_names[y_pred[i]] -->
 
 *checking whether the true name matches with the predicted names*
-
+<!-- If matches then true_positive+=1 -->
