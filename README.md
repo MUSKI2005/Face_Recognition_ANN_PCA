@@ -123,3 +123,28 @@
 *checking whether the true name matches with the predicted names*
 <!-- If matches then true_positive+=1 -->
 <!-- getting the result wiht the predicted name and the true name. -->
+*prediction_titles.append(result)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
