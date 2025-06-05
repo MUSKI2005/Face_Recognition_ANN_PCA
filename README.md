@@ -129,7 +129,7 @@
 <!-- Now printing the final test accuracy with true positive -->
 
 <!-- displaying the test images with the predictions -->
-
+<!-- plot_gallery(X_text,prediction_titles,h,w) -->
 
 
 
