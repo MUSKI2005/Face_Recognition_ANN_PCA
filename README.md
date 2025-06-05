@@ -131,7 +131,7 @@
 <!-- displaying the test images with the predictions -->
 <!-- plot_gallery(X_text,prediction_titles,h,w) -->
 
-
+<!-- plt.show -->
 
 
 
