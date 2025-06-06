@@ -138,8 +138,7 @@
 **Importing the modules**
 <!-- import matplotlib.pyplot as plt #type: ignore -->
 <!-- Importing train.test split -->
-
-<!-- importing fetch_lfw_people, PCA -->
+<!-- importing fetch_lfw_people, PCA,numpy as np, os, cv2 -->
 
 
 
