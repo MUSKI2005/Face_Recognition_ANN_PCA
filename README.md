@@ -139,7 +139,7 @@
 <!-- import matplotlib.pyplot as plt #type: ignore -->
 <!-- Importing train.test split -->
 
-
+<!-- importing fetch_lfw_people, PCA -->
 
 
 
