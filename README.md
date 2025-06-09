@@ -140,7 +140,7 @@
 <!-- Importing train.test split -->
 <!-- importing fetch_lfw_people, PCA,numpy as np, os, cv2 -->
 
-
+<!-- def plot_gallery(images,titles,h,w,n_row=3,n_col=4): -->
 
 
 
