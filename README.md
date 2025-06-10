@@ -143,7 +143,7 @@
 <!-- def plot_gallery(images,titles,h,w,n_row=3,n_col=4): -->
  """helper function to plot a gallery of portraits"""
 <!-- plt.figure -->
-
+<!-- figsize=(1.8*n_col,2.4*n_row) -->
 
 
 
